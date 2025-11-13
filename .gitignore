@@ -1,0 +1,28 @@
+# Atmel Studio / Visual Studio
+.vs/
+*.user
+*.opendb
+*.sdf
+*.suo
+
+# Build outputs
+/Debug/
+/Release/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.lss
+*.eep
+*.a
+*.lib
+*.log
+
+# Temporary / intermediate
+*.tmp
+*.bak
+
+# Generated/output dirs (if present)
+**/Output Files/
